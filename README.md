@@ -1,7 +1,7 @@
 ### Hi there 👋
 
+I'm Benjamin Jones. I am an IT apprentice for Clifton Asset Management, and currently on the Code Nation Master course. 
 <!--
-**BenjaminJones34/BenjaminJones34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
