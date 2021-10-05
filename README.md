@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there
 
 I'm Benjamin Jones. I am an IT apprentice for Clifton Asset Management, and currently on the Code Nation Master course. 
 <!--
